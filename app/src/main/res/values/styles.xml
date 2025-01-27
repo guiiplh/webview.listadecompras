@@ -1,0 +1,9 @@
+<resources>
+    <!-- Definindo o tema personalizado -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Cor da barra de status -->
+        <item name="android:statusBarColor">@color/black</item>
+        <!-- Cor da barra de navegação, se necessário -->
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>
